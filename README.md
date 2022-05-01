@@ -1,9 +1,5 @@
-# Redux Nedir, Nasil Uygulanir Projesi
+# Redux Project
 
-## `Kurulum`
-
-```
-npm install veya yarn install
 ```
 
 ## `Kullanilan Kutuphaneler`
