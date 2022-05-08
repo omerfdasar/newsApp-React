@@ -2,21 +2,21 @@
 
 ```
 
-## `Kullanilan Kutuphaneler`
+## `Libraries that were used in this project`
 
 - `redux` :
-  State management kutuphanesidir. React'ten bagimsiz olarak baska platformlar ile de kullanilabilir.
-- `redux-thunk` : Redux ile birlikte thunk teknolojisini kullanabilmek icin kullanilan kutuphanedir.
-- `react-redux` : Redux kutuphanesi ile olusturulan `store` ile React'in haberlesebilmesi icin kullanilan kutuphanedir.
-- `axios` : API istekleri yapabilmek icin kullanilan kutuphanedir.
-- `react-router-dom` : Proje icerisinde farkli URL'ler olusturup bunlar arasinda gezinebilmeyi saglayan kutuphanedir.
+  State management library. It can also be used with other platforms independent of React.
+- `redux-thunk` : It is the library used to use thunk technology with Redux..
+- `react-redux` : It is the library used for React to communicate with the 'store' created with the Redux library..
+- `axios` : It is the library used to make API requests..
+- `react-router-dom` : It is the library that allows creating different URLs within the project and navigating between them..
 
 - `@mui/material-ui`
 - `@emotion/react`
 - `@emotion/styled`
 - `firebase`
 
-## `Kullanilacak API`:
+## `API that is used`:
 
 - https://newsapi.org/
 
@@ -28,6 +28,6 @@
   "sortBy=popularity&" +
   "apiKey=1a1a999e0d7240a6bd2dead87bcca78e";
 
-## `Kullanilacak Araclar`
+## `Tool that is used`
 
-- `Redux Dev Tools` : Chrome uzerinde calisan ve global state uzerinde yapilan tum degisikliklerin takip edilmesini saglayan tarayici uzantisidir. Indirmek icin [tiklayiniz.](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)`
+- `Redux Dev Tools` : It is a browser extension that runs on Chrome and allows tracking all changes made to the global state.(https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)`
